@@ -1,0 +1,4 @@
+- Thầy upload thư mục lên google drive
+- Trong đoạn code: có phần lấy dữ liệu từ google drive load lên colab
+- Thầy chỉnh lại đường dẫn cho đúng là chạy được
+- Em cảm ơn thầy đã đọc ạ
